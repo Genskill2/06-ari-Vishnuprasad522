@@ -1,10 +1,9 @@
 #include <stdio.h>
 #include <ctype.h>
-#include <string.h>
 #include <stdlib.h>
 
 
-(char[]) ari(char[] s) {
+*char ari(string s) {
   
   string grade;
   float chara = 0, word = 0, sentence = 0;
