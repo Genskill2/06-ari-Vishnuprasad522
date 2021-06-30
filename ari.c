@@ -1,5 +1,3 @@
-#include <stdio.h>  
-
 string ari(string s) {
   
   string grade;
