@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 
-string ari(string s) {
+*char ari(*char s) {
   
   string grade;
   float chara = 0, word = 0, sentence = 0;
