@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
+#include <cs50.h>
 
-
-*(char) ari(string s) {
+string ari(string s) {
   
   string grade;
   float chara = 0, word = 0, sentence = 0;
